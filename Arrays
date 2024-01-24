@@ -1,0 +1,9 @@
+Javascript Arrays
+
+How to Create/Declare an array:
+
+there are two ways:
+
+1.let arr = new Array();
+
+2.let arr = []
