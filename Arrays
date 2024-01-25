@@ -1,9 +1,22 @@
 Javascript Arrays
 
+In javascript Array can store anything.
+
 How to Create/Declare an array:
 
 there are two ways:
 
 1.let arr = new Array();
+2.let arr = ['Dog','cat','rabbit'];
 
-2.let arr = []
+Accessing the array:
+
+console.log(arr[1]); //cat
+console.log(arr.length) // 2
+
+Different methods to add and remove array Elements
+
+1.Push and Pop(used to add and remove the element from end of the array)
+2.Shift and unshift(used to add or remove element from top of the array)
+
+
