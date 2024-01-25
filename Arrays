@@ -19,4 +19,10 @@ Different methods to add and remove array Elements
 1.Push and Pop(used to add and remove the element from end of the array)
 2.Shift and unshift(used to add or remove element from top of the array)
 
+var arr = [1,2,3,4,5];
+console.log(arr.pop()) // 5
+console.log(arr.push(6)) // [1,2,3,4,5,6]
+console.log(arr.shift()) // 1
+console.log(arr.unshift(0)) // [0,1,2,3,4,5]
+
 
