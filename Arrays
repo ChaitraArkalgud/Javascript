@@ -25,4 +25,5 @@ console.log(arr.push(6)) // [1,2,3,4,5,6]
 console.log(arr.shift()) // 1
 console.log(arr.unshift(0)) // [0,1,2,3,4,5]
 
+https://medium.com/@rabailzaheer/arrays-in-javascript-a-comprehensive-introduction-872eafb638c8#:~:text=An%20array%20in%20JavaScript%20is,is%20known%20as%20its%20index.
 
